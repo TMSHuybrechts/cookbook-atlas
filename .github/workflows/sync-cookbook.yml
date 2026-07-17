@@ -1,0 +1,32 @@
+name: Sync OpenAI Cookbook registry
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 5 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run sync:cookbook
+      - name: Commit a changed registry snapshot
+        run: |
+          if git diff --quiet -- app/cookbook-data.json; then
+            echo "Cookbook registry is already current."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add app/cookbook-data.json
+          git commit -m "Sync OpenAI Cookbook registry"
+          git push
