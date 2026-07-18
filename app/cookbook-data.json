@@ -1,19 +1,19 @@
 {
   "source": "openai/openai-cookbook registry.yaml",
   "sourceUrl": "https://raw.githubusercontent.com/openai/openai-cookbook/main/registry.yaml",
-  "generatedAt": "2026-07-17T19:31:08.734Z",
-  "total": 304,
-  "active": 158,
+  "generatedAt": "2026-07-18T07:11:35.143Z",
+  "total": 305,
+  "active": 159,
   "archived": 146,
   "categoryCounts": {
     "Agents": 44,
     "Realtime": 10,
     "RAG & Search": 116,
     "Vision & Images": 25,
-    "Audio": 19,
+    "Audio": 20,
     "Evals": 45,
     "Fine-tuning": 20,
-    "Responses API": 220
+    "Responses API": 221
   },
   "examples": [
     {
@@ -42,6 +42,35 @@
         "Python"
       ],
       "sourceUrl": "https://github.com/openai/openai-cookbook/blob/main/examples/agents_sdk/deep_research_openai_agents.ipynb"
+    },
+    {
+      "title": "Build a Speaker-Aware Meeting Intelligence Pipeline with Audio Diarization",
+      "description": "Build a production-style reference pipeline that turns recorded audio into speaker-labeled transcripts, summaries, decisions, risks, and follow-up actions.",
+      "path": "examples/audio/speaker_aware_meeting_intelligence/speaker_aware_meeting_intelligence.ipynb",
+      "slug": "speaker-aware-meeting-intelligence",
+      "date": "2026-06-18",
+      "archived": false,
+      "authors": [
+        "saptob"
+      ],
+      "tags": [
+        "audio",
+        "speech-to-text",
+        "transcription",
+        "diarization",
+        "meetings",
+        "structured-outputs"
+      ],
+      "categories": [
+        "Audio",
+        "Responses API"
+      ],
+      "primaryCategory": "Audio",
+      "difficulty": "Advanced",
+      "languages": [
+        "Python"
+      ],
+      "sourceUrl": "https://github.com/openai/openai-cookbook/blob/main/examples/audio/speaker_aware_meeting_intelligence/speaker_aware_meeting_intelligence.ipynb"
     },
     {
       "title": "Trigger a Workspace Agent from the API",
