@@ -1,10 +1,10 @@
 {
   "source": "openai/openai-cookbook registry.yaml",
   "sourceUrl": "https://raw.githubusercontent.com/openai/openai-cookbook/main/registry.yaml",
-  "generatedAt": "2026-07-20T08:19:30.264Z",
+  "generatedAt": "2026-07-21T07:43:48.605Z",
   "total": 305,
-  "active": 159,
-  "archived": 146,
+  "active": 161,
+  "archived": 144,
   "categoryCounts": {
     "Agents": 44,
     "Realtime": 10,
@@ -868,7 +868,7 @@
       "path": "examples/agents_sdk/context_personalization.ipynb",
       "slug": "context-personalization",
       "date": "2026-01-05",
-      "archived": true,
+      "archived": false,
       "authors": [
         "emreokcular"
       ],
@@ -1359,7 +1359,7 @@
       "path": "examples/agents_sdk/session_memory.ipynb",
       "slug": "session-memory",
       "date": "2025-09-09",
-      "archived": true,
+      "archived": false,
       "authors": [
         "emreokcular"
       ],
