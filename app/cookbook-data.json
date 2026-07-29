@@ -1,21 +1,50 @@
 {
   "source": "openai/openai-cookbook registry.yaml",
   "sourceUrl": "https://raw.githubusercontent.com/openai/openai-cookbook/main/registry.yaml",
-  "generatedAt": "2026-07-28T07:48:38.331Z",
-  "total": 305,
-  "active": 161,
+  "generatedAt": "2026-07-29T08:00:36.263Z",
+  "total": 306,
+  "active": 162,
   "archived": 144,
   "categoryCounts": {
     "Agents": 44,
-    "Realtime": 10,
+    "Realtime": 11,
     "RAG & Search": 116,
     "Vision & Images": 25,
-    "Audio": 20,
+    "Audio": 21,
     "Evals": 45,
     "Fine-tuning": 20,
-    "Responses API": 221
+    "Responses API": 222
   },
   "examples": [
+    {
+      "title": "Migrate from Whisper to GPT-Transcribe and GPT-Live-Transcribe",
+      "description": "Migrate existing Whisper integrations to GPT-Transcribe and GPT-Live-Transcribe with before-and-after examples for file, streaming, and Realtime transcription.",
+      "path": "examples/migrating_from_whisper_to_gpt_transcribe.ipynb",
+      "slug": "migrating-from-whisper-to-gpt-transcribe",
+      "date": "2026-07-28",
+      "archived": false,
+      "authors": [
+        "cguo-oai"
+      ],
+      "tags": [
+        "audio",
+        "transcription",
+        "realtime",
+        "migration",
+        "whisper"
+      ],
+      "categories": [
+        "Realtime",
+        "Audio",
+        "Responses API"
+      ],
+      "primaryCategory": "Realtime",
+      "difficulty": "Advanced",
+      "languages": [
+        "Python"
+      ],
+      "sourceUrl": "https://github.com/openai/openai-cookbook/blob/main/examples/migrating_from_whisper_to_gpt_transcribe.ipynb"
+    },
     {
       "title": "Enabling Long-Term Agent Memory with Oracle AI Agent Memory",
       "description": "Build a deep-research agent with the OpenAI Agents SDK, Oracle-backed session persistence, durable memory, and Tavily web search.",
