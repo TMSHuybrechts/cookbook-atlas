@@ -1,12 +1,12 @@
 {
   "source": "openai/openai-cookbook registry.yaml",
   "sourceUrl": "https://raw.githubusercontent.com/openai/openai-cookbook/main/registry.yaml",
-  "generatedAt": "2026-08-14T06:45:56.610Z",
-  "total": 307,
-  "active": 163,
-  "archived": 144,
+  "generatedAt": "2026-08-15T05:44:27.164Z",
+  "total": 308,
+  "active": 162,
+  "archived": 146,
   "categoryCounts": {
-    "Agents": 45,
+    "Agents": 46,
     "Realtime": 11,
     "RAG & Search": 116,
     "Vision & Images": 25,
@@ -16,6 +16,35 @@
     "Responses API": 223
   },
   "examples": [
+    {
+      "title": "Controlled Agentic Commerce with AgentCore Payments",
+      "description": "Build a controlled agentic-commerce workflow with the OpenAI Agents SDK, x402, application-owned payment authority, deterministic validation, and an optional gated Amazon Bedrock AgentCore Payments testnet path.",
+      "path": "examples/partners/AWS/controlled_agentic_commerce_with_agentcore_payments/controlled_agentic_commerce.ipynb",
+      "slug": "controlled-agentic-commerce-agentcore-payments",
+      "date": "2026-08-13",
+      "archived": false,
+      "authors": [
+        "deepakjain108",
+        "sidrampally-oai"
+      ],
+      "tags": [
+        "partners",
+        "agents-sdk",
+        "agents",
+        "bedrock",
+        "security",
+        "payments"
+      ],
+      "categories": [
+        "Agents"
+      ],
+      "primaryCategory": "Agents",
+      "difficulty": "Advanced",
+      "languages": [
+        "Python"
+      ],
+      "sourceUrl": "https://github.com/openai/openai-cookbook/blob/main/examples/partners/AWS/controlled_agentic_commerce_with_agentcore_payments/controlled_agentic_commerce.ipynb"
+    },
     {
       "title": "Migrate from Whisper to GPT-Transcribe and GPT-Live-Transcribe",
       "description": "Migrate existing Whisper integrations to GPT-Transcribe and GPT-Live-Transcribe with before-and-after examples for file, streaming, and Realtime transcription.",
@@ -3257,7 +3286,7 @@
       "path": "examples/third_party/Code_quality_and_security_scan_with_GitHub_Actions.md",
       "slug": "code-quality-and-security-scan-with-github-actions",
       "date": "2024-12-24",
-      "archived": false,
+      "archived": true,
       "authors": [
         "alwell-kevin"
       ],
@@ -3541,7 +3570,7 @@
       "path": "examples/chatgpt/gpt_actions_library/gpt_action_github.md",
       "slug": "gpt-action-github",
       "date": "2024-10-23",
-      "archived": false,
+      "archived": true,
       "authors": [
         "alwell-kevin"
       ],
