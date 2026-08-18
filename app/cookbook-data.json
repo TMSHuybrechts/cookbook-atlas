@@ -1,21 +1,47 @@
 {
   "source": "openai/openai-cookbook registry.yaml",
   "sourceUrl": "https://raw.githubusercontent.com/openai/openai-cookbook/main/registry.yaml",
-  "generatedAt": "2026-08-17T05:52:58.949Z",
-  "total": 308,
-  "active": 162,
-  "archived": 146,
+  "generatedAt": "2026-08-18T05:48:04.599Z",
+  "total": 309,
+  "active": 158,
+  "archived": 151,
   "categoryCounts": {
-    "Agents": 46,
+    "Agents": 47,
     "Realtime": 11,
     "RAG & Search": 116,
     "Vision & Images": 25,
     "Audio": 21,
     "Evals": 46,
     "Fine-tuning": 20,
-    "Responses API": 223
+    "Responses API": 224
   },
   "examples": [
+    {
+      "title": "Build a per-run spending controller with the Responses API",
+      "description": "Enforce an application-owned model-token budget for each Responses API run using token counts, maximum-cost estimates, usage tracking, and safe error handling.",
+      "path": "articles/per_run_spending_controller_responses_api.md",
+      "slug": "per-run-spending-controller-responses-api",
+      "date": "2026-08-17",
+      "archived": false,
+      "authors": [
+        "alexey-openai"
+      ],
+      "tags": [
+        "responses",
+        "agents",
+        "cost-management"
+      ],
+      "categories": [
+        "Agents",
+        "Responses API"
+      ],
+      "primaryCategory": "Agents",
+      "difficulty": "Intermediate",
+      "languages": [
+        "Guide"
+      ],
+      "sourceUrl": "https://github.com/openai/openai-cookbook/blob/main/articles/per_run_spending_controller_responses_api.md"
+    },
     {
       "title": "Controlled Agentic Commerce with AgentCore Payments",
       "description": "Build a controlled agentic-commerce workflow with the OpenAI Agents SDK, x402, application-owned payment authority, deterministic validation, and an optional gated Amazon Bedrock AgentCore Payments testnet path.",
@@ -1626,7 +1652,7 @@
       "path": "examples/gpt-5/gpt-5_prompting_guide.ipynb",
       "slug": "gpt-5-prompting-guide",
       "date": "2025-08-07",
-      "archived": false,
+      "archived": true,
       "authors": [
         "anoop-openai",
         "julian-openai",
@@ -1654,7 +1680,7 @@
       "path": "examples/gpt-5/gpt-5_frontend.ipynb",
       "slug": "gpt-5-frontend",
       "date": "2025-08-07",
-      "archived": false,
+      "archived": true,
       "authors": [
         "WJPBProjects",
         "anoop-openai"
@@ -2852,7 +2878,7 @@
       "path": "examples/Generate_Images_With_GPT_Image.ipynb",
       "slug": "generate-images-with-gpt-image",
       "date": "2025-04-23",
-      "archived": false,
+      "archived": true,
       "authors": [
         "katiagg"
       ],
@@ -3159,7 +3185,7 @@
       "path": "examples/responses_api/responses_example.ipynb",
       "slug": "responses-example",
       "date": "2025-03-11",
-      "archived": false,
+      "archived": true,
       "authors": [
         "billchen-openai"
       ],
@@ -3185,7 +3211,7 @@
       "path": "examples/File_Search_Responses.ipynb",
       "slug": "file-search-responses",
       "date": "2025-03-11",
-      "archived": false,
+      "archived": true,
       "authors": [
         "pap-openai"
       ],
