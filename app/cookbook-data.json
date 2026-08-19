@@ -1,12 +1,12 @@
 {
   "source": "openai/openai-cookbook registry.yaml",
   "sourceUrl": "https://raw.githubusercontent.com/openai/openai-cookbook/main/registry.yaml",
-  "generatedAt": "2026-08-18T05:48:04.599Z",
-  "total": 309,
-  "active": 158,
+  "generatedAt": "2026-08-19T05:48:49.462Z",
+  "total": 310,
+  "active": 159,
   "archived": 151,
   "categoryCounts": {
-    "Agents": 47,
+    "Agents": 48,
     "Realtime": 11,
     "RAG & Search": 116,
     "Vision & Images": 25,
@@ -70,6 +70,33 @@
         "Python"
       ],
       "sourceUrl": "https://github.com/openai/openai-cookbook/blob/main/examples/partners/AWS/controlled_agentic_commerce_with_agentcore_payments/controlled_agentic_commerce.ipynb"
+    },
+    {
+      "title": "Iterating Development Workflows with Codex",
+      "description": "Build and improve Codex development workflows using repository harnesses, phased implementation plans, approval gates, reusable skills, and evidence-backed retrospectives.",
+      "path": "examples/codex/iterating-development-workflows-with-codex.md",
+      "slug": "iterating-development-workflows-with-codex",
+      "date": "2026-08-03",
+      "archived": false,
+      "authors": [
+        "talaniz-oai"
+      ],
+      "tags": [
+        "codex",
+        "agents",
+        "planning",
+        "automation",
+        "documentation"
+      ],
+      "categories": [
+        "Agents"
+      ],
+      "primaryCategory": "Agents",
+      "difficulty": "Intermediate",
+      "languages": [
+        "Guide"
+      ],
+      "sourceUrl": "https://github.com/openai/openai-cookbook/blob/main/examples/codex/iterating-development-workflows-with-codex.md"
     },
     {
       "title": "Migrate from Whisper to GPT-Transcribe and GPT-Live-Transcribe",
