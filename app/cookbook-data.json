@@ -1,21 +1,50 @@
 {
   "source": "openai/openai-cookbook registry.yaml",
   "sourceUrl": "https://raw.githubusercontent.com/openai/openai-cookbook/main/registry.yaml",
-  "generatedAt": "2026-08-20T05:49:12.273Z",
-  "total": 310,
-  "active": 159,
+  "generatedAt": "2026-08-21T05:50:29.689Z",
+  "total": 311,
+  "active": 160,
   "archived": 151,
   "categoryCounts": {
     "Agents": 48,
     "Realtime": 11,
     "RAG & Search": 116,
-    "Vision & Images": 25,
+    "Vision & Images": 26,
     "Audio": 21,
     "Evals": 46,
     "Fine-tuning": 20,
     "Responses API": 224
   },
   "examples": [
+    {
+      "title": "Generate Transparent Image Assets for Campaigns and Presentations",
+      "description": "Generate reusable transparent PNG assets for seasonal ecommerce campaigns and branded PowerPoint presentations.",
+      "path": "examples/multimodal/transparent-image-assets-for-campaigns-and-presentations.ipynb",
+      "slug": "transparent-image-assets-for-campaigns-and-presentations",
+      "date": "2026-08-20",
+      "archived": false,
+      "authors": [
+        "the-OAI"
+      ],
+      "tags": [
+        "image-generation",
+        "images",
+        "multimodal",
+        "transparency",
+        "ecommerce",
+        "presentations",
+        "codex"
+      ],
+      "categories": [
+        "Vision & Images"
+      ],
+      "primaryCategory": "Vision & Images",
+      "difficulty": "Intermediate",
+      "languages": [
+        "Python"
+      ],
+      "sourceUrl": "https://github.com/openai/openai-cookbook/blob/main/examples/multimodal/transparent-image-assets-for-campaigns-and-presentations.ipynb"
+    },
     {
       "title": "Build a per-run spending controller with the Responses API",
       "description": "Enforce an application-owned model-token budget for each Responses API run using token counts, maximum-cost estimates, usage tracking, and safe error handling.",
@@ -652,7 +681,8 @@
       "archived": false,
       "authors": [
         "msingh-openai",
-        "emreokcular"
+        "emreokcular",
+        "the-OAI"
       ],
       "tags": [
         "images",
