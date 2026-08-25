@@ -1,10 +1,10 @@
 {
   "source": "openai/openai-cookbook registry.yaml",
   "sourceUrl": "https://raw.githubusercontent.com/openai/openai-cookbook/main/registry.yaml",
-  "generatedAt": "2026-08-24T05:56:15.117Z",
+  "generatedAt": "2026-08-25T05:49:48.682Z",
   "total": 311,
-  "active": 160,
-  "archived": 151,
+  "active": 151,
+  "archived": 160,
   "categoryCounts": {
     "Agents": 48,
     "Realtime": 11,
@@ -311,7 +311,7 @@
     },
     {
       "title": "Moving from OpenAI Evals to Promptfoo",
-      "description": "Migrate supported OpenAI Evals evaluations to runnable Promptfoo configurations and preserve historical results.",
+      "description": "Manually recreate OpenAI Evals evaluations in Promptfoo, then run and validate them.",
       "path": "examples/evaluation/moving-from-openai-evals-to-promptfoo.md",
       "slug": "moving-from-openai-evals-to-promptfoo",
       "date": "2026-06-03",
@@ -1116,7 +1116,7 @@
       "path": "examples/chatgpt/compliance_api/logs_platform.ipynb",
       "slug": "logs-platform",
       "date": "2025-12-11",
-      "archived": false,
+      "archived": true,
       "authors": [
         "kevinv-openai"
       ],
@@ -1400,7 +1400,7 @@
       "path": "articles/codex_exec_plans.md",
       "slug": "codex-exec-plans",
       "date": "2025-10-07",
-      "archived": false,
+      "archived": true,
       "authors": [
         "aaronfriel"
       ],
@@ -1657,7 +1657,7 @@
       "path": "articles/gpt-oss/run-locally-lmstudio.md",
       "slug": "run-locally-lmstudio",
       "date": "2025-08-07",
-      "archived": false,
+      "archived": true,
       "authors": [
         "yagil"
       ],
@@ -1919,7 +1919,7 @@
       "path": "articles/gpt-oss/run-vllm.md",
       "slug": "run-vllm",
       "date": "2025-08-05",
-      "archived": false,
+      "archived": true,
       "authors": [
         "dkundel-openai"
       ],
@@ -3421,7 +3421,7 @@
       "path": "examples/Embedding_Wikipedia_articles_for_search.ipynb",
       "slug": "embedding-wikipedia-articles-for-search",
       "date": "2024-11-26",
-      "archived": false,
+      "archived": true,
       "authors": [
         "ted-at-openai"
       ],
@@ -3576,7 +3576,7 @@
       "path": "examples/multimodal/Vision_Fine_tuning_on_GPT4o_for_Visual_Question_Answering.ipynb",
       "slug": "vision-fine-tuning-on-gpt4o-for-visual-question-answering",
       "date": "2024-11-01",
-      "archived": false,
+      "archived": true,
       "authors": [
         "danial-openai"
       ],
@@ -4181,7 +4181,7 @@
       "path": "examples/Structured_Outputs_Intro.ipynb",
       "slug": "structured-outputs-intro",
       "date": "2024-08-06",
-      "archived": false,
+      "archived": true,
       "authors": [
         "katiagg"
       ],
@@ -4955,7 +4955,7 @@
       "path": "examples/Using_logprobs.ipynb",
       "slug": "using-logprobs",
       "date": "2023-12-20",
-      "archived": false,
+      "archived": true,
       "authors": [
         "jhills20",
         "shyamal-anadkat"
@@ -5617,7 +5617,7 @@
       "path": "articles/what_makes_documentation_good.md",
       "slug": "what-makes-documentation-good",
       "date": "2023-09-01",
-      "archived": false,
+      "archived": true,
       "authors": [
         "ted-at-openai"
       ],
