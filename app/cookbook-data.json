@@ -1,10 +1,10 @@
 {
   "source": "openai/openai-cookbook registry.yaml",
   "sourceUrl": "https://raw.githubusercontent.com/openai/openai-cookbook/main/registry.yaml",
-  "generatedAt": "2026-08-25T05:49:48.682Z",
+  "generatedAt": "2026-08-26T05:52:18.164Z",
   "total": 311,
-  "active": 151,
-  "archived": 160,
+  "active": 114,
+  "archived": 197,
   "categoryCounts": {
     "Agents": 48,
     "Realtime": 11,
@@ -759,7 +759,7 @@
       "path": "examples/sora/sora2_prompting_guide.ipynb",
       "slug": "sora2-prompting-guide",
       "date": "2026-03-12",
-      "archived": false,
+      "archived": true,
       "authors": [
         "rkoenig-openai",
         "joanneshin-openai",
@@ -868,7 +868,7 @@
       "path": "examples/partners/agentic_governance_guide/agentic_governance_cookbook.ipynb",
       "slug": "agentic-governance-cookbook",
       "date": "2026-02-23",
-      "archived": false,
+      "archived": true,
       "authors": [
         "shikhar-cyber",
         "Pavan Kumar Muthozu",
@@ -1089,7 +1089,7 @@
       "path": "examples/multimodal/image-gen-1.5-prompting_guide.ipynb",
       "slug": "image-gen-1-5-prompting-guide",
       "date": "2025-12-16",
-      "archived": false,
+      "archived": true,
       "authors": [
         "annikab-oai",
         "msingh-openai",
@@ -1143,7 +1143,7 @@
       "path": "examples/gpt-5/gpt-5-2_prompting_guide.ipynb",
       "slug": "gpt-5-2-prompting-guide",
       "date": "2025-12-11",
-      "archived": false,
+      "archived": true,
       "authors": [
         "msingh-openai",
         "emreokcular"
@@ -1167,7 +1167,7 @@
       "path": "examples/Realtime_out_of_band_transcription.ipynb",
       "slug": "realtime-out-of-band-transcription",
       "date": "2025-11-20",
-      "archived": false,
+      "archived": true,
       "authors": [
         "minh-hoque"
       ],
@@ -1217,7 +1217,7 @@
       "path": "examples/Build_a_coding_agent_with_GPT-5.1.ipynb",
       "slug": "build-a-coding-agent-with-gpt-5-1",
       "date": "2025-11-13",
-      "archived": false,
+      "archived": true,
       "authors": [
         "katiagg"
       ],
@@ -1242,7 +1242,7 @@
       "path": "examples/gpt-5/gpt-5-1_prompting_guide.ipynb",
       "slug": "gpt-5-1-prompting-guide",
       "date": "2025-11-13",
-      "archived": false,
+      "archived": true,
       "authors": [
         "samarth-oai"
       ],
@@ -1265,7 +1265,7 @@
       "path": "examples/partners/self_evolving_agents/autonomous_agent_retraining.ipynb",
       "slug": "autonomous-agent-retraining",
       "date": "2025-11-04",
-      "archived": false,
+      "archived": true,
       "authors": [
         "shikhar-cyber",
         "Calvin Maguranis",
@@ -1326,7 +1326,7 @@
       "path": "examples/codex/build_code_review_with_codex_sdk.md",
       "slug": "build-code-review-with-codex-sdk",
       "date": "2025-10-21",
-      "archived": false,
+      "archived": true,
       "authors": [
         "charlie-openai",
         "joanneshin-openai"
@@ -1351,7 +1351,7 @@
       "path": "examples/agentkit/agentkit_walkthrough.ipynb",
       "slug": "agentkit-walkthrough",
       "date": "2025-10-17",
-      "archived": false,
+      "archived": true,
       "authors": [
         "nikhils-oai"
       ],
@@ -1763,7 +1763,7 @@
       "path": "examples/gpt-5/gpt-5_new_params_and_tools.ipynb",
       "slug": "gpt-5-new-params-and-tools",
       "date": "2025-08-07",
-      "archived": false,
+      "archived": true,
       "authors": [
         "msingh-openai"
       ],
@@ -2030,7 +2030,7 @@
       "path": "examples/Generate_Images_With_High_Input_Fidelity.ipynb",
       "slug": "generate-images-with-high-input-fidelity",
       "date": "2025-07-17",
-      "archived": false,
+      "archived": true,
       "authors": [
         "katiagg"
       ],
@@ -2080,7 +2080,7 @@
       "path": "examples/Optimize_Prompts.ipynb",
       "slug": "optimize-prompts",
       "date": "2025-07-14",
-      "archived": false,
+      "archived": true,
       "authors": [
         "corwin"
       ],
@@ -2109,7 +2109,7 @@
       "path": "examples/mcp/databricks_mcp_cookbook.ipynb",
       "slug": "databricks-mcp-cookbook",
       "date": "2025-07-08",
-      "archived": false,
+      "archived": true,
       "authors": [
         "lara-openai"
       ],
@@ -2136,7 +2136,7 @@
       "path": "examples/Prompt_migration_guide.ipynb",
       "slug": "prompt-migration-guide",
       "date": "2025-06-26",
-      "archived": false,
+      "archived": true,
       "authors": [
         "minh-hoque",
         "corwin"
@@ -2162,7 +2162,7 @@
       "path": "examples/deep_research_api/introduction_to_deep_research_api.ipynb",
       "slug": "introduction-to-deep-research-api",
       "date": "2025-06-25",
-      "archived": false,
+      "archived": true,
       "authors": [
         "glojain",
         "alwell-kevin"
@@ -2190,7 +2190,7 @@
       "path": "examples/deep_research_api/introduction_to_deep_research_api_agents.ipynb",
       "slug": "introduction-to-deep-research-api-agents",
       "date": "2025-06-25",
-      "archived": false,
+      "archived": true,
       "authors": [
         "alwell-kevin",
         "glojain"
@@ -2220,7 +2220,7 @@
       "path": "examples/deep_research_api/how_to_build_a_deep_research_mcp_server/README.md",
       "slug": "how-to-build-a-deep-research-mcp-server-readme",
       "date": "2025-06-25",
-      "archived": false,
+      "archived": true,
       "authors": [
         "alwell-kevin",
         "glojain"
@@ -2251,7 +2251,7 @@
       "path": "examples/codex/jira-github.ipynb",
       "slug": "jira-github",
       "date": "2025-06-21",
-      "archived": false,
+      "archived": true,
       "authors": [
         "alwell-kevin",
         "narenoai"
@@ -2276,7 +2276,7 @@
       "path": "examples/Fine_tuning_direct_preference_optimization_guide.ipynb",
       "slug": "fine-tuning-direct-preference-optimization-guide",
       "date": "2025-06-18",
-      "archived": false,
+      "archived": true,
       "authors": [
         "alexl-oai"
       ],
@@ -2299,7 +2299,7 @@
       "path": "examples/partners/mcp_powered_voice_agents/mcp_powered_agents_cookbook.ipynb",
       "slug": "mcp-powered-agents-cookbook",
       "date": "2025-06-17",
-      "archived": false,
+      "archived": true,
       "authors": [
         "shikhar-cyber",
         "Cece Z",
@@ -2441,7 +2441,7 @@
       "path": "examples/partners/eval_driven_system_design/receipt_inspection.ipynb",
       "slug": "receipt-inspection",
       "date": "2025-06-02",
-      "archived": false,
+      "archived": true,
       "authors": [
         "shikhar-cyber",
         "Hugh Wimberly",
@@ -2529,7 +2529,7 @@
       "path": "examples/agents_sdk/multi-agent-portfolio-collaboration/multi_agent_portfolio_collaboration.ipynb",
       "slug": "multi-agent-portfolio-collaboration",
       "date": "2025-05-28",
-      "archived": false,
+      "archived": true,
       "authors": [
         "rajpathak-openai",
         "chelseahu-openai"
@@ -2583,7 +2583,7 @@
       "path": "examples/Reinforcement_Fine_Tuning.ipynb",
       "slug": "reinforcement-fine-tuning",
       "date": "2025-05-23",
-      "archived": false,
+      "archived": true,
       "authors": [
         "theophile-oai"
       ],
@@ -2610,7 +2610,7 @@
       "path": "examples/fine-tuned_qa/reinforcement_finetuning_healthbench.ipynb",
       "slug": "reinforcement-finetuning-healthbench",
       "date": "2025-05-21",
-      "archived": false,
+      "archived": true,
       "authors": [
         "robert-tinn"
       ],
@@ -2638,7 +2638,7 @@
       "path": "examples/mcp/mcp_tool_guide.ipynb",
       "slug": "mcp-tool-guide",
       "date": "2025-05-21",
-      "archived": false,
+      "archived": true,
       "authors": [
         "charuj"
       ],
@@ -2662,7 +2662,7 @@
       "path": "examples/multimodal/image_understanding_with_rag.ipynb",
       "slug": "image-understanding-with-rag",
       "date": "2025-05-16",
-      "archived": false,
+      "archived": true,
       "authors": [
         "robert-tinn"
       ],
@@ -2715,7 +2715,7 @@
       "path": "examples/responses_api/reasoning_items.ipynb",
       "slug": "reasoning-items",
       "date": "2025-05-11",
-      "archived": false,
+      "archived": true,
       "authors": [
         "billchen-openai"
       ],
@@ -2739,7 +2739,7 @@
       "path": "examples/Context_summarization_with_realtime_api.ipynb",
       "slug": "context-summarization-with-realtime-api",
       "date": "2025-05-10",
-      "archived": false,
+      "archived": true,
       "authors": [
         "minh-hoque"
       ],
@@ -2766,7 +2766,7 @@
       "path": "examples/partners/model_selection_guide/model_selection_guide.ipynb",
       "slug": "model-selection-guide",
       "date": "2025-05-07",
-      "archived": false,
+      "archived": true,
       "authors": [
         "shikhar-cyber",
         "kashyapm-tribe",
@@ -2831,7 +2831,7 @@
       "path": "examples/agents_sdk/parallel_agents.ipynb",
       "slug": "parallel-agents",
       "date": "2025-05-01",
-      "archived": false,
+      "archived": true,
       "authors": [
         "brandonbaker-openai"
       ],
@@ -2856,7 +2856,7 @@
       "path": "examples/Speech_transcription_methods.ipynb",
       "slug": "speech-transcription-methods",
       "date": "2025-04-29",
-      "archived": false,
+      "archived": true,
       "authors": [
         "minh-hoque"
       ],
@@ -2986,7 +2986,7 @@
       "path": "examples/gpt4-1_prompting_guide.ipynb",
       "slug": "gpt4-1-prompting-guide",
       "date": "2025-04-14",
-      "archived": false,
+      "archived": true,
       "authors": [
         "nm-openai",
         "julian-openai"
@@ -3111,7 +3111,7 @@
       "path": "examples/agents_sdk/evaluate_agents.ipynb",
       "slug": "evaluate-agents",
       "date": "2025-03-31",
-      "archived": false,
+      "archived": true,
       "authors": [
         "jannik-maierhofer"
       ],
@@ -3136,7 +3136,7 @@
       "path": "examples/responses_api/responses_api_tool_orchestration.ipynb",
       "slug": "responses-api-tool-orchestration",
       "date": "2025-03-28",
-      "archived": false,
+      "archived": true,
       "authors": [
         "shikhar-cyber"
       ],
@@ -3293,7 +3293,7 @@
       "path": "examples/object_oriented_agentic_approach/Secure_code_interpreter_tool_for_LLM_agents.ipynb",
       "slug": "secure-code-interpreter-tool-for-llm-agents",
       "date": "2025-02-03",
-      "archived": false,
+      "archived": true,
       "authors": [
         "msingh-openai"
       ],
@@ -3318,7 +3318,7 @@
       "path": "examples/How_to_handle_rate_limits.ipynb",
       "slug": "how-to-handle-rate-limits",
       "date": "2025-01-22",
-      "archived": false,
+      "archived": true,
       "authors": [
         "ted-at-openai",
         "dwigg-openai"
