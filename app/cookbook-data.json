@@ -1,10 +1,10 @@
 {
   "source": "openai/openai-cookbook registry.yaml",
   "sourceUrl": "https://raw.githubusercontent.com/openai/openai-cookbook/main/registry.yaml",
-  "generatedAt": "2026-08-26T05:52:18.164Z",
+  "generatedAt": "2026-08-27T16:33:22.490Z",
   "total": 311,
-  "active": 114,
-  "archived": 197,
+  "active": 107,
+  "archived": 204,
   "categoryCounts": {
     "Agents": 48,
     "Realtime": 11,
@@ -814,7 +814,7 @@
       "path": "examples/Realtime_prompting_guide.ipynb",
       "slug": "realtime-prompting-guide",
       "date": "2026-02-25",
-      "archived": false,
+      "archived": true,
       "authors": [
         "minh-hoque"
       ],
@@ -902,7 +902,7 @@
       "path": "examples/Prompt_Caching_201.ipynb",
       "slug": "prompt-caching-201",
       "date": "2026-02-18",
-      "archived": false,
+      "archived": true,
       "authors": [
         "erikakettleson-openai"
       ],
@@ -930,7 +930,7 @@
       "path": "examples/skills_in_api.ipynb",
       "slug": "skills-in-api",
       "date": "2026-02-10",
-      "archived": false,
+      "archived": true,
       "authors": [
         "emreokcular"
       ],
@@ -1428,7 +1428,7 @@
       "path": "examples/evaluation/Building_resilient_prompts_using_an_evaluation_flywheel.md",
       "slug": "building-resilient-prompts-using-an-evaluation-flywheel",
       "date": "2025-10-06",
-      "archived": false,
+      "archived": true,
       "authors": [
         "neelk-oai",
         "hamel"
@@ -1454,7 +1454,7 @@
       "path": "examples/codex/codex_mcp_agents_sdk/building_consistent_workflows_codex_cli_agents_sdk.ipynb",
       "slug": "building-consistent-workflows-codex-cli-agents-sdk",
       "date": "2025-10-01",
-      "archived": false,
+      "archived": true,
       "authors": [
         "jhall-openai",
         "charlie-openai"
@@ -1480,7 +1480,7 @@
       "path": "examples/codex/Autofix-github-actions.ipynb",
       "slug": "autofix-github-actions",
       "date": "2025-09-30",
-      "archived": false,
+      "archived": true,
       "authors": [
         "himadri518",
         "alwell-kevin",
@@ -1579,7 +1579,7 @@
       "path": "articles/gpt-oss/fine-tune-korean.ipynb",
       "slug": "fine-tune-korean",
       "date": "2025-08-26",
-      "archived": false,
+      "archived": true,
       "authors": [
         "heejingithub",
         "danial-openai",
