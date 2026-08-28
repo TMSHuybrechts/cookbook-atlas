@@ -1,9 +1,9 @@
 {
   "source": "openai/openai-cookbook registry.yaml",
   "sourceUrl": "https://raw.githubusercontent.com/openai/openai-cookbook/main/registry.yaml",
-  "generatedAt": "2026-08-27T16:33:22.490Z",
-  "total": 311,
-  "active": 107,
+  "generatedAt": "2026-08-28T17:28:21.515Z",
+  "total": 312,
+  "active": 108,
   "archived": 204,
   "categoryCounts": {
     "Agents": 48,
@@ -13,9 +13,37 @@
     "Audio": 21,
     "Evals": 46,
     "Fine-tuning": 20,
-    "Responses API": 224
+    "Responses API": 225
   },
   "examples": [
+    {
+      "title": "Manage SharePoint site access with the ChatGPT Admin API",
+      "description": "Resolve SharePoint URLs into site-collection identifiers and safely manage a ChatGPT workspace allowlist with the Admin API.",
+      "path": "examples/chatgpt/sharepoint_site_access/sharepoint_site_access.md",
+      "slug": "manage-sharepoint-site-access-chatgpt-admin-api",
+      "date": "2026-08-27",
+      "archived": false,
+      "authors": [
+        "hmittal-oai"
+      ],
+      "tags": [
+        "chatgpt",
+        "chatgpt-and-api",
+        "enterprise",
+        "api",
+        "sharepoint",
+        "security"
+      ],
+      "categories": [
+        "Responses API"
+      ],
+      "primaryCategory": "Responses API",
+      "difficulty": "Advanced",
+      "languages": [
+        "Guide"
+      ],
+      "sourceUrl": "https://github.com/openai/openai-cookbook/blob/main/examples/chatgpt/sharepoint_site_access/sharepoint_site_access.md"
+    },
     {
       "title": "Generate Transparent Image Assets for Campaigns and Presentations",
       "description": "Generate reusable transparent PNG assets for seasonal ecommerce campaigns and branded PowerPoint presentations.",
