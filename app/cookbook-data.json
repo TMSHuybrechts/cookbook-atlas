@@ -1,19 +1,19 @@
 {
   "source": "openai/openai-cookbook registry.yaml",
   "sourceUrl": "https://raw.githubusercontent.com/openai/openai-cookbook/main/registry.yaml",
-  "generatedAt": "2026-08-31T11:38:41.574Z",
-  "total": 312,
-  "active": 108,
+  "generatedAt": "2026-09-01T10:10:59.007Z",
+  "total": 313,
+  "active": 109,
   "archived": 204,
   "categoryCounts": {
-    "Agents": 48,
+    "Agents": 49,
     "Realtime": 11,
     "RAG & Search": 116,
     "Vision & Images": 26,
     "Audio": 21,
     "Evals": 46,
     "Fine-tuning": 20,
-    "Responses API": 225
+    "Responses API": 226
   },
   "examples": [
     {
@@ -127,6 +127,31 @@
         "Python"
       ],
       "sourceUrl": "https://github.com/openai/openai-cookbook/blob/main/examples/partners/AWS/controlled_agentic_commerce_with_agentcore_payments/controlled_agentic_commerce.ipynb"
+    },
+    {
+      "title": "Combining security scanners with the Agents SDK",
+      "description": "Use the OpenAI Agents SDK to route scanner findings to specialist agents, check source evidence, and prepare a Codex prompt for human review.",
+      "path": "examples/agents_sdk/security_scanners_with_agents_sdk.ipynb",
+      "slug": "evidence-grounded-security-review-swarm",
+      "date": "2026-08-05",
+      "archived": false,
+      "authors": [
+        "hreh-oai"
+      ],
+      "tags": [
+        "agents-sdk",
+        "security"
+      ],
+      "categories": [
+        "Agents",
+        "Responses API"
+      ],
+      "primaryCategory": "Agents",
+      "difficulty": "Advanced",
+      "languages": [
+        "Python"
+      ],
+      "sourceUrl": "https://github.com/openai/openai-cookbook/blob/main/examples/agents_sdk/security_scanners_with_agents_sdk.ipynb"
     },
     {
       "title": "Iterating Development Workflows with Codex",
