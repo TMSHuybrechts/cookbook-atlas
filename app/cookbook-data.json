@@ -1,21 +1,79 @@
 {
   "source": "openai/openai-cookbook registry.yaml",
   "sourceUrl": "https://raw.githubusercontent.com/openai/openai-cookbook/main/registry.yaml",
-  "generatedAt": "2026-09-10T09:48:42.319Z",
-  "total": 313,
-  "active": 109,
+  "generatedAt": "2026-09-11T09:47:35.653Z",
+  "total": 315,
+  "active": 111,
   "archived": 204,
   "categoryCounts": {
-    "Agents": 49,
+    "Agents": 51,
     "Realtime": 11,
     "RAG & Search": 116,
     "Vision & Images": 26,
-    "Audio": 21,
-    "Evals": 46,
+    "Audio": 22,
+    "Evals": 47,
     "Fine-tuning": 20,
-    "Responses API": 226
+    "Responses API": 228
   },
   "examples": [
+    {
+      "title": "Agents API applications and sandbox integrations",
+      "description": "Explore complete Agents API applications and application-managed or webhook-managed sandbox integrations.",
+      "path": "examples/agents_api/README.md",
+      "slug": "agents-api-examples",
+      "date": "2026-09-10",
+      "archived": false,
+      "authors": [
+        "alfozan"
+      ],
+      "tags": [
+        "agents-api",
+        "agents",
+        "sandbox"
+      ],
+      "categories": [
+        "Agents",
+        "Responses API"
+      ],
+      "primaryCategory": "Agents",
+      "difficulty": "Intermediate",
+      "languages": [
+        "Guide"
+      ],
+      "sourceUrl": "https://github.com/openai/openai-cookbook/blob/main/examples/agents_api/README.md"
+    },
+    {
+      "title": "GPT-Live evaluation guide",
+      "description": "Evaluate full-duplex voice agents with controlled requests, recorded audio, and simulated conversations, measuring interaction quality and verified task outcomes.",
+      "path": "examples/audio/voice_agent_evaluation.md",
+      "slug": "voice-agent-evaluation",
+      "date": "2026-09-10",
+      "archived": false,
+      "authors": [
+        "kait-oai",
+        "karsten-oai",
+        "erikakettleson-openai"
+      ],
+      "tags": [
+        "audio",
+        "speech",
+        "evals",
+        "agents",
+        "responses"
+      ],
+      "categories": [
+        "Agents",
+        "Audio",
+        "Evals",
+        "Responses API"
+      ],
+      "primaryCategory": "Agents",
+      "difficulty": "Advanced",
+      "languages": [
+        "Guide"
+      ],
+      "sourceUrl": "https://github.com/openai/openai-cookbook/blob/main/examples/audio/voice_agent_evaluation.md"
+    },
     {
       "title": "Manage SharePoint site access with the ChatGPT Admin API",
       "description": "Resolve SharePoint URLs into site-collection identifiers and safely manage a ChatGPT workspace allowlist with the Admin API.",
