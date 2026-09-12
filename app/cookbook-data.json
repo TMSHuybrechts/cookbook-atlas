@@ -1,10 +1,10 @@
 {
   "source": "openai/openai-cookbook registry.yaml",
   "sourceUrl": "https://raw.githubusercontent.com/openai/openai-cookbook/main/registry.yaml",
-  "generatedAt": "2026-09-11T09:47:35.653Z",
+  "generatedAt": "2026-09-12T09:25:08.509Z",
   "total": 315,
-  "active": 111,
-  "archived": 204,
+  "active": 110,
+  "archived": 205,
   "categoryCounts": {
     "Agents": 51,
     "Realtime": 11,
@@ -789,7 +789,7 @@
       "path": "examples/multimodal/image-gen-models-prompting-guide.ipynb",
       "slug": "image-gen-models-prompting-guide",
       "date": "2026-04-21",
-      "archived": false,
+      "archived": true,
       "authors": [
         "msingh-openai",
         "emreokcular",
