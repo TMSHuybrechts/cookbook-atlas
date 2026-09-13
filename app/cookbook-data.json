@@ -1,19 +1,19 @@
 {
   "source": "openai/openai-cookbook registry.yaml",
   "sourceUrl": "https://raw.githubusercontent.com/openai/openai-cookbook/main/registry.yaml",
-  "generatedAt": "2026-09-12T09:25:08.509Z",
-  "total": 315,
-  "active": 110,
+  "generatedAt": "2026-09-13T10:20:52.193Z",
+  "total": 316,
+  "active": 111,
   "archived": 205,
   "categoryCounts": {
-    "Agents": 51,
+    "Agents": 52,
     "Realtime": 11,
     "RAG & Search": 116,
     "Vision & Images": 26,
     "Audio": 22,
-    "Evals": 47,
+    "Evals": 48,
     "Fine-tuning": 20,
-    "Responses API": 228
+    "Responses API": 229
   },
   "examples": [
     {
@@ -73,6 +73,41 @@
         "Guide"
       ],
       "sourceUrl": "https://github.com/openai/openai-cookbook/blob/main/examples/audio/voice_agent_evaluation.md"
+    },
+    {
+      "title": "Build a ChatGPT plugin with the OpenAI Agents SDK and Amazon Bedrock AgentCore",
+      "description": "Build a private ChatGPT flight-assistant plugin with the OpenAI Agents SDK on Amazon Bedrock, connect it through Secure MCP Tunnel, and validate tracing and Promptfoo evaluations.",
+      "path": "examples/partners/AWS/chatgpt_agents_sdk_aws_agentcore_cookbook/notebooks/chatgpt_agents_sdk_aws_agentcore_cookbook.ipynb",
+      "slug": "chatgpt-agents-sdk-amazon-bedrock-agentcore",
+      "date": "2026-09-03",
+      "archived": false,
+      "authors": [
+        "rohan-eliza",
+        "chuck-eliza",
+        "syedahmed-oai",
+        "smcateer-eliza"
+      ],
+      "tags": [
+        "partners",
+        "chatgpt",
+        "agents-sdk",
+        "agents",
+        "bedrock",
+        "mcp",
+        "tracing",
+        "evals"
+      ],
+      "categories": [
+        "Agents",
+        "Evals",
+        "Responses API"
+      ],
+      "primaryCategory": "Agents",
+      "difficulty": "Advanced",
+      "languages": [
+        "Python"
+      ],
+      "sourceUrl": "https://github.com/openai/openai-cookbook/blob/main/examples/partners/AWS/chatgpt_agents_sdk_aws_agentcore_cookbook/notebooks/chatgpt_agents_sdk_aws_agentcore_cookbook.ipynb"
     },
     {
       "title": "Manage SharePoint site access with the ChatGPT Admin API",
