@@ -1,26 +1,26 @@
 {
   "source": "openai/openai-cookbook registry.yaml",
   "sourceUrl": "https://raw.githubusercontent.com/openai/openai-cookbook/main/registry.yaml",
-  "generatedAt": "2026-09-16T09:59:54.087Z",
-  "total": 316,
-  "active": 111,
+  "generatedAt": "2026-09-17T10:03:12.085Z",
+  "total": 318,
+  "active": 113,
   "archived": 205,
   "categoryCounts": {
-    "Agents": 52,
+    "Agents": 54,
     "Realtime": 11,
     "RAG & Search": 116,
     "Vision & Images": 26,
     "Audio": 22,
     "Evals": 48,
     "Fine-tuning": 20,
-    "Responses API": 229
+    "Responses API": 231
   },
   "examples": [
     {
-      "title": "Agents API applications and sandbox integrations",
-      "description": "Explore complete Agents API applications and application-managed or webhook-managed sandbox integrations.",
-      "path": "examples/agents_api/README.md",
-      "slug": "agents-api-examples",
+      "title": "Build an SRE agent for incident response",
+      "description": "Investigate incidents in Slack using service telemetry, GitHub, AWS, and past incident reports, with human review before recovery.",
+      "path": "examples/agents_api/apps/sev_bot/README.md",
+      "slug": "agents-api-sev-bot",
       "date": "2026-09-10",
       "archived": false,
       "authors": [
@@ -40,7 +40,58 @@
       "languages": [
         "Guide"
       ],
-      "sourceUrl": "https://github.com/openai/openai-cookbook/blob/main/examples/agents_api/README.md"
+      "sourceUrl": "https://github.com/openai/openai-cookbook/blob/main/examples/agents_api/apps/sev_bot/README.md"
+    },
+    {
+      "title": "Build a Slack bot with the Agents API",
+      "description": "Connect Slack threads to persistent agent sessions, workplace tools, and isolated sandboxes.",
+      "path": "examples/agents_api/apps/slack_bot/README.md",
+      "slug": "agents-api-slack-bot",
+      "date": "2026-09-10",
+      "archived": false,
+      "authors": [
+        "alfozan"
+      ],
+      "tags": [
+        "agents-api",
+        "agents",
+        "sandbox"
+      ],
+      "categories": [
+        "Agents",
+        "Responses API"
+      ],
+      "primaryCategory": "Agents",
+      "difficulty": "Intermediate",
+      "languages": [
+        "Guide"
+      ],
+      "sourceUrl": "https://github.com/openai/openai-cookbook/blob/main/examples/agents_api/apps/slack_bot/README.md"
+    },
+    {
+      "title": "Build a data analyst with the Agents API",
+      "description": "Investigate warehouse questions with read-only SQL, business context, and saved analyst corrections.",
+      "path": "examples/agents_api/apps/data_analyst/README.md",
+      "slug": "agents-api-data-analyst",
+      "date": "2026-09-10",
+      "archived": false,
+      "authors": [
+        "alfozan"
+      ],
+      "tags": [
+        "agents-api",
+        "agents"
+      ],
+      "categories": [
+        "Agents",
+        "Responses API"
+      ],
+      "primaryCategory": "Agents",
+      "difficulty": "Intermediate",
+      "languages": [
+        "Guide"
+      ],
+      "sourceUrl": "https://github.com/openai/openai-cookbook/blob/main/examples/agents_api/apps/data_analyst/README.md"
     },
     {
       "title": "GPT-Live evaluation guide",
