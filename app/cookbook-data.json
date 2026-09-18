@@ -1,19 +1,19 @@
 {
   "source": "openai/openai-cookbook registry.yaml",
   "sourceUrl": "https://raw.githubusercontent.com/openai/openai-cookbook/main/registry.yaml",
-  "generatedAt": "2026-09-17T10:03:12.085Z",
-  "total": 318,
-  "active": 113,
+  "generatedAt": "2026-09-18T09:50:27.112Z",
+  "total": 319,
+  "active": 114,
   "archived": 205,
   "categoryCounts": {
-    "Agents": 54,
+    "Agents": 55,
     "Realtime": 11,
-    "RAG & Search": 116,
+    "RAG & Search": 117,
     "Vision & Images": 26,
     "Audio": 22,
-    "Evals": 48,
+    "Evals": 49,
     "Fine-tuning": 20,
-    "Responses API": 231
+    "Responses API": 232
   },
   "examples": [
     {
@@ -271,6 +271,39 @@
         "Python"
       ],
       "sourceUrl": "https://github.com/openai/openai-cookbook/blob/main/examples/partners/AWS/controlled_agentic_commerce_with_agentcore_payments/controlled_agentic_commerce.ipynb"
+    },
+    {
+      "title": "Build a prior authorization review assistant with the OpenAI Agents SDK and Amazon Bedrock AgentCore",
+      "description": "Build and deploy a prior authorization review assistant that retrieves public CMS policy documents with a Bedrock Managed Knowledge Base, maps submitted evidence to policy criteria with the OpenAI Agents SDK, validates citations and review routing in code, and runs on Amazon Bedrock AgentCore.",
+      "path": "examples/partners/AWS/policy_to_review_prior_authorization_agents_sdk_agentcore.ipynb",
+      "slug": "prior-authorization-review-agentcore",
+      "date": "2026-08-10",
+      "archived": false,
+      "authors": [
+        "sks-oai"
+      ],
+      "tags": [
+        "partners",
+        "agents-sdk",
+        "agents",
+        "bedrock",
+        "agentcore",
+        "healthcare",
+        "retrieval",
+        "structured-outputs"
+      ],
+      "categories": [
+        "Agents",
+        "RAG & Search",
+        "Evals",
+        "Responses API"
+      ],
+      "primaryCategory": "Agents",
+      "difficulty": "Advanced",
+      "languages": [
+        "Python"
+      ],
+      "sourceUrl": "https://github.com/openai/openai-cookbook/blob/main/examples/partners/AWS/policy_to_review_prior_authorization_agents_sdk_agentcore.ipynb"
     },
     {
       "title": "Combining security scanners with the Agents SDK",
