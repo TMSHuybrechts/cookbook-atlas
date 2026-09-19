@@ -1,21 +1,47 @@
 {
   "source": "openai/openai-cookbook registry.yaml",
   "sourceUrl": "https://raw.githubusercontent.com/openai/openai-cookbook/main/registry.yaml",
-  "generatedAt": "2026-09-18T09:50:27.112Z",
-  "total": 319,
-  "active": 114,
-  "archived": 205,
+  "generatedAt": "2026-09-19T09:34:44.621Z",
+  "total": 320,
+  "active": 116,
+  "archived": 204,
   "categoryCounts": {
-    "Agents": 55,
+    "Agents": 56,
     "Realtime": 11,
     "RAG & Search": 117,
     "Vision & Images": 26,
     "Audio": 22,
-    "Evals": 49,
+    "Evals": 50,
     "Fine-tuning": 20,
     "Responses API": 232
   },
   "examples": [
+    {
+      "title": "Optimizing Customer Support Agents for Cost and Quality",
+      "description": "Optimize agents on cost, latency and performance.",
+      "path": "examples/agent_optimization/optimizing_agents_for_cost_and_quality.ipynb",
+      "slug": "optimizing_agents_for_cost_and_quality",
+      "date": "2026-09-14",
+      "archived": false,
+      "authors": [
+        "emreokcular",
+        "lara-openai"
+      ],
+      "tags": [
+        "evals",
+        "agents"
+      ],
+      "categories": [
+        "Agents",
+        "Evals"
+      ],
+      "primaryCategory": "Agents",
+      "difficulty": "Advanced",
+      "languages": [
+        "Python"
+      ],
+      "sourceUrl": "https://github.com/openai/openai-cookbook/blob/main/examples/agent_optimization/optimizing_agents_for_cost_and_quality.ipynb"
+    },
     {
       "title": "Build an SRE agent for incident response",
       "description": "Investigate incidents in Slack using service telemetry, GitHub, AWS, and past incident reports, with human review before recovery.",
@@ -1160,7 +1186,7 @@
       "path": "examples/skills_in_api.ipynb",
       "slug": "skills-in-api",
       "date": "2026-02-10",
-      "archived": true,
+      "archived": false,
       "authors": [
         "emreokcular"
       ],
