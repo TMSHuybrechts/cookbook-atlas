@@ -1,21 +1,48 @@
 {
   "source": "openai/openai-cookbook registry.yaml",
   "sourceUrl": "https://raw.githubusercontent.com/openai/openai-cookbook/main/registry.yaml",
-  "generatedAt": "2026-09-29T11:24:29.157Z",
-  "total": 320,
-  "active": 116,
+  "generatedAt": "2026-09-30T11:12:12.507Z",
+  "total": 321,
+  "active": 117,
   "archived": 204,
   "categoryCounts": {
-    "Agents": 56,
+    "Agents": 57,
     "Realtime": 11,
     "RAG & Search": 117,
-    "Vision & Images": 26,
+    "Vision & Images": 27,
     "Audio": 22,
     "Evals": 50,
     "Fine-tuning": 20,
-    "Responses API": 232
+    "Responses API": 233
   },
   "examples": [
+    {
+      "title": "Run Agents API sandboxes on AWS Lambda MicroVMs",
+      "description": "Run agent tools in AWS Lambda MicroVMs with application-managed or webhook-managed provisioning, file transfers, and suspend/resume.",
+      "path": "examples/agents_api/sandboxes/aws/README.md",
+      "slug": "agents-api-aws-lambda-microvms",
+      "date": "2026-09-29",
+      "archived": false,
+      "authors": [
+        "alfozan"
+      ],
+      "tags": [
+        "agents-api",
+        "agents",
+        "sandbox"
+      ],
+      "categories": [
+        "Agents",
+        "Vision & Images",
+        "Responses API"
+      ],
+      "primaryCategory": "Agents",
+      "difficulty": "Intermediate",
+      "languages": [
+        "Guide"
+      ],
+      "sourceUrl": "https://github.com/openai/openai-cookbook/blob/main/examples/agents_api/sandboxes/aws/README.md"
+    },
     {
       "title": "Optimizing Customer Support Agents for Cost and Quality",
       "description": "Optimize agents on cost, latency and performance.",
