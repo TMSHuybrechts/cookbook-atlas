@@ -1,9 +1,9 @@
 {
   "source": "openai/openai-cookbook registry.yaml",
   "sourceUrl": "https://raw.githubusercontent.com/openai/openai-cookbook/main/registry.yaml",
-  "generatedAt": "2026-10-01T11:39:32.753Z",
-  "total": 321,
-  "active": 117,
+  "generatedAt": "2026-10-02T11:09:19.679Z",
+  "total": 322,
+  "active": 118,
   "archived": 204,
   "categoryCounts": {
     "Agents": 57,
@@ -13,7 +13,7 @@
     "Audio": 22,
     "Evals": 50,
     "Fine-tuning": 20,
-    "Responses API": 233
+    "Responses API": 234
   },
   "examples": [
     {
@@ -42,6 +42,32 @@
         "Guide"
       ],
       "sourceUrl": "https://github.com/openai/openai-cookbook/blob/main/examples/agents_api/sandboxes/aws/README.md"
+    },
+    {
+      "title": "Release ChatGPT usage budgets hourly, daily, or weekly",
+      "description": "Release a monthly ChatGPT budget in credits or US dollars in hourly, daily, or weekly increments. Explore a plan in your browser, try a Codex-assisted pilot, and deploy on managed infrastructure.",
+      "path": "examples/chatgpt/daily_usage_limits/README.md",
+      "slug": "chatgpt-interval-usage-limits",
+      "date": "2026-09-19",
+      "archived": false,
+      "authors": [
+        "sperry-openai"
+      ],
+      "tags": [
+        "chatgpt",
+        "admin-api",
+        "usage-limits",
+        "automation"
+      ],
+      "categories": [
+        "Responses API"
+      ],
+      "primaryCategory": "Responses API",
+      "difficulty": "Intermediate",
+      "languages": [
+        "Guide"
+      ],
+      "sourceUrl": "https://github.com/openai/openai-cookbook/blob/main/examples/chatgpt/daily_usage_limits/README.md"
     },
     {
       "title": "Optimizing Customer Support Agents for Cost and Quality",
