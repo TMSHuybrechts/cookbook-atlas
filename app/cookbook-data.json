@@ -1,21 +1,48 @@
 {
   "source": "openai/openai-cookbook registry.yaml",
   "sourceUrl": "https://raw.githubusercontent.com/openai/openai-cookbook/main/registry.yaml",
-  "generatedAt": "2026-10-23T10:10:01.480Z",
-  "total": 323,
-  "active": 119,
+  "generatedAt": "2026-10-24T09:35:54.292Z",
+  "total": 324,
+  "active": 120,
   "archived": 204,
   "categoryCounts": {
-    "Agents": 57,
+    "Agents": 58,
     "Realtime": 11,
     "RAG & Search": 117,
-    "Vision & Images": 27,
+    "Vision & Images": 28,
     "Audio": 22,
     "Evals": 51,
     "Fine-tuning": 20,
-    "Responses API": 235
+    "Responses API": 236
   },
   "examples": [
+    {
+      "title": "Run OpenAI agents on a Databricks Sandbox",
+      "description": "Run agent tools in a Databricks serverless sandbox with application-managed provisioning.",
+      "path": "examples/agents_api/sandboxes/databricks/README.md",
+      "slug": "agents-api-databricks-sandbox",
+      "date": "2026-10-23",
+      "archived": false,
+      "authors": [
+        "HsingTang"
+      ],
+      "tags": [
+        "agents-api",
+        "agents",
+        "sandbox"
+      ],
+      "categories": [
+        "Agents",
+        "Vision & Images",
+        "Responses API"
+      ],
+      "primaryCategory": "Agents",
+      "difficulty": "Intermediate",
+      "languages": [
+        "Guide"
+      ],
+      "sourceUrl": "https://github.com/openai/openai-cookbook/blob/main/examples/agents_api/sandboxes/databricks/README.md"
+    },
     {
       "title": "Run Agents API sandboxes on AWS Lambda MicroVMs",
       "description": "Run agent tools in AWS Lambda MicroVMs with application-managed or webhook-managed provisioning, file transfers, and suspend/resume.",
