@@ -1,9 +1,9 @@
 {
   "source": "openai/openai-cookbook registry.yaml",
   "sourceUrl": "https://raw.githubusercontent.com/openai/openai-cookbook/main/registry.yaml",
-  "generatedAt": "2026-10-29T11:34:14.768Z",
-  "total": 324,
-  "active": 120,
+  "generatedAt": "2026-10-30T11:26:35.510Z",
+  "total": 325,
+  "active": 121,
   "archived": 204,
   "categoryCounts": {
     "Agents": 58,
@@ -13,9 +13,33 @@
     "Audio": 22,
     "Evals": 51,
     "Fine-tuning": 20,
-    "Responses API": 236
+    "Responses API": 237
   },
   "examples": [
+    {
+      "title": "Route customer-support messages with the Decisions API",
+      "description": "Build a customer-support router with the Decisions API and GPT-6 Luna. Define queues, route ten banking-support messages, and validate choices and confidence before assigning tickets.",
+      "path": "examples/decisions/customer_request_routing.ipynb",
+      "slug": "decisions-customer-request-routing",
+      "date": "2026-10-27",
+      "archived": false,
+      "authors": [
+        "neusebius"
+      ],
+      "tags": [
+        "decisions",
+        "classification"
+      ],
+      "categories": [
+        "Responses API"
+      ],
+      "primaryCategory": "Responses API",
+      "difficulty": "Intermediate",
+      "languages": [
+        "Python"
+      ],
+      "sourceUrl": "https://github.com/openai/openai-cookbook/blob/main/examples/decisions/customer_request_routing.ipynb"
+    },
     {
       "title": "Run OpenAI agents on a Databricks Sandbox",
       "description": "Run agent tools in a Databricks serverless sandbox with application-managed provisioning.",
