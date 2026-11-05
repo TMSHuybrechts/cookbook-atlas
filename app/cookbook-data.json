@@ -1,7 +1,7 @@
 {
   "source": "openai/openai-cookbook registry.yaml",
   "sourceUrl": "https://raw.githubusercontent.com/openai/openai-cookbook/main/registry.yaml",
-  "generatedAt": "2026-11-04T13:03:04.150Z",
+  "generatedAt": "2026-11-05T13:16:18.818Z",
   "total": 324,
   "active": 120,
   "archived": 204,
@@ -51,7 +51,7 @@
       "date": "2026-09-29",
       "archived": false,
       "authors": [
-        "alfozan"
+        "openai"
       ],
       "tags": [
         "agents-api",
@@ -161,7 +161,7 @@
       "date": "2026-09-10",
       "archived": false,
       "authors": [
-        "alfozan"
+        "openai"
       ],
       "tags": [
         "agents-api",
@@ -187,7 +187,7 @@
       "date": "2026-09-10",
       "archived": false,
       "authors": [
-        "alfozan"
+        "openai"
       ],
       "tags": [
         "agents-api",
@@ -213,7 +213,7 @@
       "date": "2026-09-10",
       "archived": false,
       "authors": [
-        "alfozan"
+        "openai"
       ],
       "tags": [
         "agents-api",
@@ -941,7 +941,7 @@
       "date": "2026-05-05",
       "archived": false,
       "authors": [
-        "alfozan"
+        "openai"
       ],
       "tags": [
         "agents-sdk",
