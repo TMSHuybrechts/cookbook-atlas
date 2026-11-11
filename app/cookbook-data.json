@@ -1,21 +1,51 @@
 {
   "source": "openai/openai-cookbook registry.yaml",
   "sourceUrl": "https://raw.githubusercontent.com/openai/openai-cookbook/main/registry.yaml",
-  "generatedAt": "2026-11-10T13:32:16.913Z",
-  "total": 324,
-  "active": 120,
+  "generatedAt": "2026-11-11T12:46:23.916Z",
+  "total": 325,
+  "active": 121,
   "archived": 204,
   "categoryCounts": {
-    "Agents": 58,
+    "Agents": 59,
     "Realtime": 11,
     "RAG & Search": 117,
     "Vision & Images": 28,
-    "Audio": 22,
-    "Evals": 51,
+    "Audio": 23,
+    "Evals": 52,
     "Fine-tuning": 20,
-    "Responses API": 236
+    "Responses API": 237
   },
   "examples": [
+    {
+      "title": "Build a voice agent that follows an SOP",
+      "description": "Turn a written SOP into prompts, tools, and application checks that keep a voice agent on the right procedure when a caller changes their request or corrects an answer.",
+      "path": "articles/sop_to_voice_agent_builder.md",
+      "slug": "sop-to-voice-agent-builder",
+      "date": "2026-11-03",
+      "archived": false,
+      "authors": [
+        "erikakettleson-openai"
+      ],
+      "tags": [
+        "audio",
+        "speech",
+        "agents",
+        "prompting",
+        "evals"
+      ],
+      "categories": [
+        "Agents",
+        "Audio",
+        "Evals",
+        "Responses API"
+      ],
+      "primaryCategory": "Agents",
+      "difficulty": "Advanced",
+      "languages": [
+        "Guide"
+      ],
+      "sourceUrl": "https://github.com/openai/openai-cookbook/blob/main/articles/sop_to_voice_agent_builder.md"
+    },
     {
       "title": "Run OpenAI agents on a Databricks Sandbox",
       "description": "Run agent tools in a Databricks serverless sandbox with application-managed provisioning.",
